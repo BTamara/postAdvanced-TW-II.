@@ -42,7 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="DecoratorDesignPattern.cs" />
+    <Compile Include="FacadeDesignPattern.cs" />
+    <Compile Include="Menu.cs" />
+    <Compile Include="SingletonDesignPattern.cs" />
+    <Compile Include="FactoryDesignPattern.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
