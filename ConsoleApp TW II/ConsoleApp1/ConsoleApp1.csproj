@@ -44,10 +44,15 @@
   <ItemGroup>
     <Compile Include="DecoratorDesignPattern.cs" />
     <Compile Include="FacadeDesignPattern.cs" />
+    <Compile Include="IteratorDesignPattern.cs" />
     <Compile Include="Menu.cs" />
+    <Compile Include="NullObjectDesignPAttern.cs" />
+    <Compile Include="PrototypeDesignPattern.cs" />
+    <Compile Include="ProxyDesignPattern.cs" />
     <Compile Include="SingletonDesignPattern.cs" />
     <Compile Include="FactoryDesignPattern.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StateDesignPattern.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
